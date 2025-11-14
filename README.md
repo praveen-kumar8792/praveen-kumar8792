@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar K</h1>
+<div align="center"><img src="https://github.com/praveen-kumar8792/praveen-kumar8792/blob/main/Image-1.jpeg" style="width: 75px; height: 100px;></div
 <h3 align="center">Experienced Technical Trainer</h3>
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen-kumar8792&label=Profile%20views&color=0e75b6&style=flat" alt="praveen-kumar8792" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **New Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ praveen-kumar8792](https://github.com/ praveen-kumar8792)
+- 👨‍💻 All of my projects are available at https://github.com/ praveen-kumar8792
 
 - 💬 Ask me about **DataScience,Cloud**
 
@@ -18,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/praveen-kumar-kandhala-36076322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveen-kumar-kandhala-36076322" height="30" width="40" /></a>
-<a href="https://fb.com/praveen kandhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praveen kandhala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/praveen's-learning-path" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="praveen's-learning-path" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Praveen3387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praveen kandhala" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Praveens-Learning-Path" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="praveen's-learning-path" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
